@@ -29,10 +29,11 @@ I'm a second year software development Student at Technological Institute of the
 
 <h4>Software and Tools</h4>
 <span>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+  
   
   
 </span>
